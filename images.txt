@@ -1,1 +1,1 @@
---platform=linux/arm64 gitlab/gitlab-ce:latest
+gitlab/gitlab-ce:latest
