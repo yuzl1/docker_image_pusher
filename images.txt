@@ -1,1 +1,4 @@
-gitlab/gitlab-ce:latest
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-1
+eipwork/kuboard:v3
+questdb/questdb:6.0.4
