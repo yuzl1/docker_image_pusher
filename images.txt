@@ -1,1 +1,1 @@
-apecloud/gaussdb:2.23.01
+--platform=linux/arm64 apecloud/gaussdb:2.23.01
