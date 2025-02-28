@@ -1,2 +1,7 @@
-dreamacro/clash:latest
-haishanh/yacd:latest
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
+postgres:15-alpine
+nginx:latest
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+ubuntu/squid:latest
