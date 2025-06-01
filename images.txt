@@ -1,17 +1,1 @@
-supabase/studio:2025.04.21-sha-173cc56
-image: kong:2.8.1
-supabase/gotrue:v2.171.0
-postgrest/postgrest:v12.2.11
-supabase/realtime:v2.34.47
-supabase/storage-api:v1.22.7
-darthsim/imgproxy:v3.8.0
-supabase/postgres-meta:v0.88.9
-supabase/edge-runtime:v1.67.4
-supabase/logflare:1.12.0
-supabase/postgres:15.8.1.060
-timberio/vector:0.28.1-alpine
-supabase/supavisor:2.5.1
-minio/minio
-minio/mc
-supabase/storage-api:v1.11.13
-darthsim/imgproxy:v3.8.0
+openvpn-image
