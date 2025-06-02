@@ -1,1 +1,1 @@
-mbentley/wg-gen-web:latest
+vx3r/wg-gen-web
