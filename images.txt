@@ -1,1 +1,1 @@
-appscode/kubed:v0.13.2
+appscodeci/kubed:v0.13.2
